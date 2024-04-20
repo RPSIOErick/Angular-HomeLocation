@@ -1,0 +1,44 @@
+{
+    "locations": [
+        {
+            "id": 0,
+            "name": "Oakland Canada Apartments",
+            "city": "Oakland",
+            "state": "CA",
+            "photo": "https://images1.apartments.com/i2/A30KP6HoWkheoxJR5cdOycxLdnW5__PZYCTayq2vxu8/117/the-bridge-at-emeryville-emeryville-ca-building-photo.jpg?p=1",
+            "availableUnits": 3,
+            "wifi": true,
+            "laundry": true
+        },
+        {
+            "id": 1,
+            "name": "Pleasanton Apartments",
+            "city": "Pleasanton",
+            "state": "CA",
+            "photo": "https://images1.apartments.com/i2/UFyvUu08DBA9BIuWz7Hhz28NYf9naHFzJ1kTPc7JIiQ/117/image.jpg",
+            "availableUnits": 2,
+            "wifi": true,
+            "laundry": true
+        },
+        {
+            "id": 2,
+            "name": "San Francisco Apartments",
+            "city": "San Francisco",
+            "state": "CA",
+            "photo": "https://thespaces.com/wp-content/uploads/2016/05/Vertigo-Taylor-Street-San-Fran-7-FT.jpg",
+            "availableUnits": 1,
+            "wifi": true,
+            "laundry": true
+        },
+        {
+            "id": 3,
+            "name": "Berkeley Single Apartments",
+            "city": "Berkeley",
+            "state": "CA",
+            "photo": "https://housing.berkeley.edu/wp-content/uploads/IMG_0389-400x267-1.jpg",
+            "availableUnits": 0,
+            "wifi": true,
+            "laundry": true
+        }
+    ]
+}
